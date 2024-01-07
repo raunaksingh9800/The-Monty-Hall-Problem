@@ -3,7 +3,9 @@
  Unveiling the Counterintuitive 2/3 Probability
 
  Explore the fascinating Monty Hall Problem through this C++ simulation!
-
+ ## Screenshots
+ ![alt text]( https://github.com/raunaksingh9800/The-Monty-Hall-Problem/blob/main/images/screenshot.png?raw=true)
+ ![alt text]( https://github.com/raunaksingh9800/The-Monty-Hall-Problem/blob/main/images/Screenshot%202.png?raw=true)
  ## Description
 
  This repository contains a C++ program that simulates the Monty Hall Problem, a famous probability puzzle that often challenges intuition. It demonstrates through multiple trials that switching doors after the host reveals a goat has a 2/3 probability of winning the car, contrary to the initial 50/50 assumption.
