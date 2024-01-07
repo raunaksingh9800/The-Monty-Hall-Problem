@@ -3,6 +3,10 @@
  Unveiling the Counterintuitive 2/3 Probability
 
  Explore the fascinating Monty Hall Problem through this C++ simulation!
+
+ ## Clone The Repo
+ 
+ `git clone https://github.com/raunaksingh9800/The-Monty-Hall-Problem`
  
  ## Screenshots
  ![alt text]( https://github.com/raunaksingh9800/The-Monty-Hall-Problem/blob/main/images/screenshot.png?raw=true)
